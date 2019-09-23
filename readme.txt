@@ -1,2 +1,1 @@
-ARCOLE
-[?1049h[1;63r(B[m[4l[?7h[?12l[?25h[?1h=[?1h=[?1h=[39;49m[39;49m(B[m[H[2J(B[0;7m  GNU nano 2.0.6                  File: INF2050                                            [61;40H[ New File ][62d^G(B[m Get Help    (B[0;7m^O(B[m WriteOut    (B[0;7m^R(B[m Read File   (B[0;7m^Y(B[m Prev Page   (B[0;7m^K(B[m Cut Text    (B[0;7m^C(B[m Cur Pos[63d(B[0;7m^X(B[m Exit[63;16H(B[0;7m^J(B[m Justify     (B[0;7m^W(B[m Where Is    (B[0;7m^V(B[m Next Page   (B[0;7m^U(B[m UnCut Text  (B[0;7m^T(B[m To Spell[3d[61;21H(B[0;7m[ line 1/1 (100%), col 1/1 (100%), char 0/0 (0%) ][3d(B[m[62d[J[63;91H[63;1H[?1049l[?1l>INF2050
+ARCOLEINF2050
